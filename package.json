@@ -1,7 +1,6 @@
 {
-  "name": "terabox-api-auto",
+  "name": "teradl-api",
   "version": "1.0.0",
-  "description": "Auto CSRF TeraBox Scraper",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
